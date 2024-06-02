@@ -201,4 +201,9 @@ if __name__ == "__main__":
 '''
 IdeaPad 3 15ABA7- CPU: AMD Ryzen 5 5625U, RAM: 8BG: Całkowity czas wykonania skryptu: 505 s.
 Dell Latitude 5431- CPU: i7-1270P, RAM: 32 GB: Całkowity czas wykonania skryptu: 197 s.
+Ryzen 9 3900X underclock - 3600, 0.95V Całkowity czas wykonania skryptu: 2000 s.
+normalnie Całkowity czas wykonania skryptu: 481 s.
+python 3.11.8, amd 5800x, ddr4-3200 16 gb, 199 sekund
+AMD Ryzen 5 5600H with Radeon Graphics 3.30GHz, 16GB: Całkowity czas wykonania skryptu: 702 s.
+Wszędzie zużycie CPU na poziomie od 14 do 50%. raczej sięutrzymuje na poziomie 1/4-1/3 zużycia.
 '''
